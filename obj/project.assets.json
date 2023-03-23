@@ -108,9 +108,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kitki\\Documents\\GitHub\\CSharp-Game-Making\\pleasework\\game.csproj",
-      "projectName": "game",
-      "projectPath": "C:\\Users\\kitki\\Documents\\GitHub\\CSharp-Game-Making\\pleasework\\game.csproj",
+      "projectUniqueName": "C:\\Users\\kitki\\Documents\\GitHub\\CSharp-Game-Making\\pleasework\\pleasework.csproj",
+      "projectName": "pleasework",
+      "projectPath": "C:\\Users\\kitki\\Documents\\GitHub\\CSharp-Game-Making\\pleasework\\pleasework.csproj",
       "packagesPath": "C:\\Users\\kitki\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\kitki\\Documents\\GitHub\\CSharp-Game-Making\\pleasework\\obj\\",
       "projectStyle": "PackageReference",
