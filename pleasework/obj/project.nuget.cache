@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4TX02J2BWFdr8poj2DRkiT/haiaDKnIWprAh1hOI7vsgQLk2W48F6E8zvfElyfrr/z1Jv+V/Jyl5/kSYhWLEjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kitki\\Documents\\GitHub\\CSharp-Game-Making\\pleasework\\pleasework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kitki\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\kitki\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
